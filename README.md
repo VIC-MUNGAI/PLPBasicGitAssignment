@@ -1,3 +1,4 @@
+Documentation
 # Navigating to a folder 
     'cd Documents/'
 # creating a new folder
